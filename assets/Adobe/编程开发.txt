@@ -1,0 +1,25 @@
+C#
+C/C++
+Java
+python
+javascript
+HTML+CSS
+
+
+共同课
+
+C/C++
+java
+CAD
+MySql
+
+
+单片机
+HTML+CSS+Javascript
+
+
+编程开发：
+VScode 、Visual Studio、Dev C++、Idea、PyCharm
+
+组网技术：
+CISCO、H3C、eNSP
